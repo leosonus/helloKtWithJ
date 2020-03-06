@@ -5,4 +5,5 @@ data class Person(val name: String,
 
 fun main(args: Array<String>) {
     println("Gogo")
+    println("haha")
 }
